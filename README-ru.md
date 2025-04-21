@@ -36,8 +36,8 @@
 [![Kuzmikhail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kuzmikhail&show_icons=true)]()
 -->
 ## 📨 Свяжитесь со мной
-- **Email:** mikhailkuzmin5557@gmail.com
-- **Telegram:** [@M_kuz_min](https://t.me/M_kuz_min)
+<a href="mailto:mikhailkuzmin5557@gmail.com"><img src="gmail.png"></a>
+<a href="https://t.me/M_kuz_min"><img src="Telegram_logo.png"></a>
 
 ---
 
