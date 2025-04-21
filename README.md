@@ -37,8 +37,8 @@ Currently diving deep into Data Science and neural networks, participating in re
 -->
 
 ## 📨 Contact Me
-- **Email:** mikhailkuzmin5557@gmail.com
-- **Telegram:** [@M_kuz_min](https://t.me/M_kuz_min)
+<a href="mailto:mikhailkuzmin5557@gmail.com"><img src="gmail.png"></a>
+<a href="https://t.me/M_kuz_min"><img src="Telegram_logo.png"></a>
 
 ---
 
